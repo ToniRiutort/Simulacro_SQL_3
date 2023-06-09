@@ -16,6 +16,7 @@
 ## Mi soluciones
 
 1. SELECT piezas.nombre_pieza FROM piezas WHERE color = "rojo";
+
 ![image](https://github.com/ToniRiutort/Simulacro_SQL_3/assets/104781981/a74bc0f4-0a5f-4e95-a0f3-e96caac4901d)
 2. SELECT nombre_proveedor FROM proveedores WHERE ciudad_proveedor = "Madrid";
 ![image](https://github.com/ToniRiutort/Simulacro_SQL_3/assets/104781981/2bcf9918-6561-4a3d-b9d3-cb3e2945a2db)
