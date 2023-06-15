@@ -35,7 +35,7 @@
 
 ![image](https://github.com/ToniRiutort/Simulacro_SQL_3/assets/104781981/99ee1be7-987a-4a36-aeaa-cb82d945e6a8)
 
-6. SELECT nombre_pieza FROM piezas INNER JOIN proveedores ON piezas.id_proveedor = proveedores.id_proveedor WHERE proveedores.nombre_proveedor = 'Proveedor ORDER BY piezas.peso LIMIT 1;
+6. SELECT nombre_pieza FROM piezas INNER JOIN proveedores ON piezas.id_proveedor = proveedores.id_proveedor WHERE proveedores.nombre_proveedor = 'Proveedor A' ORDER BY piezas.peso LIMIT 1;
 
 ![image](https://github.com/ToniRiutort/Simulacro_SQL_3/assets/104781981/1dafd7be-f7df-4cf8-8802-56888c1d3d6b)
 
